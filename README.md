@@ -17,7 +17,7 @@ TrackSoft is an employee monitoring system designed to help track employees' wor
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/tracksoft.git
+   git clone https://github.com/abdul25basit/tracksoft.git
    ```
 2. **Run the Backend:**
    - Install Django: `pip install django`
